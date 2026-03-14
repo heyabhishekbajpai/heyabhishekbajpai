@@ -45,7 +45,6 @@ Currently deep in building mode — turning ideas into real things, one vibe-cod
 [![YouTube](https://img.shields.io/badge/-@abhishek.bajpai-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@abhishek.bajpai)
 [![Instagram](https://img.shields.io/badge/-@hey.bajpai-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hey.bajpai/)
 [![Email](https://img.shields.io/badge/-bajpai.connect@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bajpai.connect@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917307457138?text=Hey%20Abhishek)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15B5180ZwJdNb2vg9UqPUTQoKdpRtGi_D/view?usp=sharing)
 
 ---
