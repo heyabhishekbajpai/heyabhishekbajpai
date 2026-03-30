@@ -1,6 +1,6 @@
 # Hey, I'm Abhishek 👋
 
-📍 Lucknow, India &nbsp;|&nbsp; Student &nbsp;|&nbsp; Vibecoder
+📍 Lucknow, India &nbsp;|&nbsp; Student &nbsp;|&nbsp; Developer
 
 > Just building stuff. Ship beats perfect.
 
